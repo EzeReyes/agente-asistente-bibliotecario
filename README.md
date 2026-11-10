@@ -16,10 +16,10 @@ El sistema busca facilitar el acceso a la información mediante el procesamiento
 A continuación se detallan los principales archivos y directorios del proyecto:
 
 ### Ir a Agente de IA
-- [BiblioAsistente]("https://opal.google/app/1AMFg4tZ7J08bxOLoVq7LbtXL4QBACK4g")
+- [BiblioAsistente](https://opal.google/app/1AMFg4tZ7J08bxOLoVq7LbtXL4QBACK4g)
 
 ### Presentación
-- [Ver presentación en powerv point](./Clases.pptx)
+- [Ver presentación en power point](./Clases.pptx)
 
 ### Diagramas
 - [Diagramas](./diagramas/)
