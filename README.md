@@ -1,6 +1,8 @@
-# 🤖 Asistente Inteligente de IA
+# 🤖 Asistente Inteligente de IA "BIBLIO ASISTENTE"
 
-Este proyecto consiste en el desarrollo de un asistente inteligente basado en Inteligencia Artificial (IA), diseñado para interpretar consultas de usuarios, procesar información y proporcionar respuestas de manera automatizada.
+Este proyecto consiste en el desarrollo de un asistente inteligente de consulta de biblioteca basado en Inteligencia Artificial (IA), diseñado para interpretar consultas de usuarios, procesar información y proporcionar respuestas de manera automatizada.
+
+El agente se encuentra conectado a un archivo Excel que funciona como base de datos y simula la interacción de conexión a un Sistema General de Biblioteca conectado mediante una API, su función es consultar la información disponible en el archivo Excel y brindar respuestas claras al usuario, y su único privilegio otorgado es el realizar consultas.
 
 El sistema busca facilitar el acceso a la información mediante el procesamiento de lenguaje natural, utilizando una arquitectura modular que permite organizar las funcionalidades y separar las responsabilidades de cada componente.
 
